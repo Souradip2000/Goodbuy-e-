@@ -31,6 +31,6 @@ We value your feedback and suggestions. If you have ideas on how to improve the 
 
 ## 🌐 Contact
 
-For inquiries, support, or feedback, reach out at [support@goodbuyeapp.com](mailto:souradip.ghosh11@gmail.com).
+For inquiries, support, or feedback, reach out at [supportgoodbuyeapp@gmail.com](mailto:souradip.ghosh11@gmail.com).
 
 ---
