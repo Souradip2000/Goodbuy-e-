@@ -1,6 +1,5 @@
 # GoodBuy(e) App: College Item Marketplace
 
-![GoodBuy(e) Logo](path_to_logo_image_here.png)
 
 ---
 
